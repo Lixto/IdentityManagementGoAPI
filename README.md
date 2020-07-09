@@ -1,2 +1,2 @@
 # IdentityManagementGoAPI
-User authentication API with identity management based on Ethereum. 
+User authentication API with identity management in Ethereum. 
