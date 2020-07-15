@@ -47,7 +47,6 @@ func LoginService(user models.User) (int, []byte) {
 		return http.StatusInternalServerError, []byte("")
 	}
 
-	//Mis dudas, de momento se queda pero no
 	if !auth {
 		timeOld := time.Now().Unix()
 
